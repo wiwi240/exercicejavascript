@@ -1,45 +1,45 @@
-# Exercice JavaScript
+# JavaScript Exercise
 
 ## Description
 
-Ce projet contient plusieurs exercices JavaScript pour l'apprentissage des bases du langage. Il inclut des scripts interactifs exécutés dans le navigateur via une page HTML.
+This project contains several JavaScript exercises for learning the basics of the language. It includes interactive scripts executed in the browser via an HTML page.
 
-## Structure du projet
+## Project Structure
 
 ```
-├── index.html         # Page principale qui charge les scripts JS
-├── script01.js        # Script d'affichage de messages et de saisie utilisateur
-├── script02.js        # Script de calcul de la factorielle d'un nombre
-├── script03.js        # (Vide, prêt pour de futurs exercices)
-└── README.md          # Ce fichier de documentation
+├── index.html         # Main page that loads the JS scripts
+├── script01.js        # Script for displaying messages and user input
+├── script02.js        # Script for calculating the factorial of a number
+├── script03.js        # (Empty, ready for future exercises)
+└── README.md          # This documentation file
 ```
 
-## Utilisation
+## Usage
 
-1. **Ouvrir le fichier `index.html` dans un navigateur** pour exécuter les scripts JavaScript.
-2. Par défaut, le script `script02.js` est chargé. Vous pouvez modifier la balise `<script src="..."></script>` dans `index.html` pour tester un autre script.
+1. **Open the `index.html` file in a browser** to run the JavaScript scripts.
+2. By default, the `script02.js` is loaded. You can change the `<script src="..."></script>` tag in `index.html` to test another script.
 
-## Détail des scripts
+## Script Details
 
-- **script01.js** :
-	- Affiche "Bonjour Monde" dans la console.
-	- Demande le prénom de l'utilisateur et l'affiche dans la console.
-- **script02.js** :
-	- Demande un nombre à l'utilisateur et calcule sa factorielle.
-	- Affiche le résultat dans la console.
-- **script03.js** :
-	- (Actuellement vide)
+- **script01.js**:
+	- Displays "Bonjour Monde" in the console.
+	- Asks the user's first name and displays it in the console.
+- **script02.js**:
+	- Asks the user for a number and calculates its factorial.
+	- Displays the result in the console.
+- **script03.js**:
+	- (Currently empty)
 
-## Exécution
+## How to Run
 
-- Ouvrez `index.html` dans votre navigateur web préféré.
-- Suivez les instructions affichées (pop-ups de saisie, résultats dans la console).
+- Open `index.html` in your favorite web browser.
+- Follow the displayed instructions (input pop-ups, results in the console).
 
-## Auteur
+## Author
 
 - William
 
 ---
 
-*Projet réalisé dans le cadre d'un exercice d'apprentissage JavaScript.*
+*Project created as part of a JavaScript learning exercise.*
 # exercicejavascript
