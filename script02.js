@@ -7,9 +7,8 @@ let resultat = 1;
 // 3. La boucle qui fait tout le travail
 for (let i = nombre; i > 0; i--) {
   resultat = resultat * i;
-    // ICI : Écrivez la ligne qui multiplie "resultat" par "i"
-  
-    // et qui remet le tout dans "resultat"
+  // ICI : Écrivez la ligne qui multiplie "resultat" par "i"
+  // et qui remet le tout dans "resultat"
 }
 
 // 4. On affiche le message final
