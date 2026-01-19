@@ -8,9 +8,11 @@ This project contains several JavaScript exercises for learning the basics of th
 
 ```
 ├── index.html         # Main page that loads the JS scripts
-├── script01.js        # Script for displaying messages and user input
-├── script02.js        # Script for calculating the factorial of a number
-├── script03.js        # (Empty, ready for future exercises)
+├── script01.js        # Displays messages and handles user input
+├── script02.js        # Calculates the factorial of a number
+├── script03.js        # Builds and displays a pyramid in the console
+├── script04.js        # Present, currently empty
+├── script05.js        # Present, currently empty
 └── README.md          # This documentation file
 ```
 
@@ -28,7 +30,22 @@ This project contains several JavaScript exercises for learning the basics of th
 	- Asks the user for a number and calculates its factorial.
 	- Displays the result in the console.
 - **script03.js**:
-	- (Currently empty)
+	- Asks the user how many levels for a pyramid.
+	- Builds and displays a pyramid of that height in the console using spaces and # characters.
+- **script04.js**:
+	- Contains an array of famous entrepreneurs.
+	- Displays entrepreneurs born in the 1970s.
+	- Creates and displays an array of their full names.
+- **script05.js**:
+	- Contains an array of books with title, id, and rental count.
+	- Checks if all books have been rented at least once.
+	- Finds the most and least rented books.
+	- Finds a book by its ID.
+	- Removes a book by its ID and displays the updated array.
+- **index.html**:
+	- Main HTML file that loads the JavaScript scripts.
+- **README.md**:
+	- This documentation file.
 
 ## How to Run
 

@@ -28,3 +28,12 @@ if (entrepreneur.year >= 1970 && entrepreneur.year <= 1979) {
     console.log(entrepreneur.first + " " + entrepreneur.last);
 }
 }
+
+let nomscomplet=[]
+for (let entrepreneur of entrepreneurs) {
+    let nomEtPrenom = entrepreneur.first + " " + entrepreneur.last;
+    nomscomplet.push(nomEtPrenom);
+}
+    console.log(nomscomplet);
+
+
